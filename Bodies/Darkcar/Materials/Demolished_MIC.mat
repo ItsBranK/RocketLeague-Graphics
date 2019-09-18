@@ -1,0 +1,9 @@
+Diffuse=Chassis01_Diffuse
+Normal=Chassis01_Normal
+Other[0]=Engine_Incinerator_Normal
+Other[1]=Asphalt_N
+Other[2]=Dirt_MASK
+Other[3]=Engine_Incinerator_Diffuse
+Other[4]=Asphalt_D
+Other[5]=Dust_T
+Other[6]=CoordMask

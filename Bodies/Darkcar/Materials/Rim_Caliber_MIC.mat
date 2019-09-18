@@ -1,0 +1,4 @@
+Diffuse=rim_Caliber_diffuse
+Normal=rim_Caliber_normal
+Other[0]=rim_Standard_normal
+Other[1]=rim_Standard_diffuse
