@@ -1,7 +1,0 @@
-Diffuse=Engine_Incinerator_Diffuse
-Normal=Engine_Incinerator_Normal
-Opacity=Dirt_MASK
-Other[0]=Asphalt_N
-Other[1]=Asphalt_D
-Other[2]=Dust_T
-Other[3]=CoordMask
