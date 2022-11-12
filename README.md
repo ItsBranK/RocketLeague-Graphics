@@ -1,7 +1,4 @@
-# Rocket League Assets
+# RocketLeague Graphics
+A repository for hosting all the raw graphics that Rocket League uses. 
 
-This repository contains nearly all the raw audio and graphics that Rocket League uses.
-
-They are to be used for video editing purposes, since I don't own them don't try to sell them or whatever and claim they are yours.
-
-If you want me to add/update anything please create a new issue [here](https://github.com/ItsBranK/RocketLeague/issues/).
+Files last updated for Rocket League version: 221024.70985.401801
